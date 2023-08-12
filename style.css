@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    text-align: center;
+    padding-top:40px;
+}
+
+.center button{
+    padding: 10px 20px;
+    color: lightblue;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px 20px;
+    box-shadow: 0px 0px 2px 6px rgba(0,0,0,0.1);
+    cursor: pointer;
+    margin-bottom: 60px;
+}
+
+
+
+.dise{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+
+}
+.dise img{
+    width: 100%;
+}
+.dise2{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding-top:30px ;
+}
+.dise2 img{
+    width: 100%;
+}
